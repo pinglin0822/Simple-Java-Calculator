@@ -13,7 +13,7 @@
  * @modweb      http://www.achinthagunasekara.com
  * @modemail    contact@achinthagunasekara.com
  */
-//test
+//try automation
 package simplejavacalculator;
 
 public class SimpleJavaCalculator {
